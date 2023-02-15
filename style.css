@@ -19,3 +19,7 @@ p {
     font-size: 18px;
     text-align: justify;
 }
+
+#destaque {
+    font-weight: bold;
+}
